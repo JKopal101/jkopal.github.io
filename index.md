@@ -2,6 +2,14 @@
 
 I'm passionate about technology and problem-solving, with expertise in Cybersecurity, Linux, Python, and SQL. I'm currently advancing my skills to transition into a role in Cybersecurity.
 
+<nav>
+  <ul>
+    <li><a href="#home">Home</a></li>
+    <li><a href="#about">About Me</a></li>
+    <li><a href="#projects">Projects</a></li>
+    <li><a href="#contact">Contact</a></li>
+  </ul>
+</nav>
 
 ## 🎯 Objective
 
