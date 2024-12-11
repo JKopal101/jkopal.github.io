@@ -1,3 +1,7 @@
+<head>
+  <link rel="stylesheet" href="/assets/css/style.css">
+</head>
+
 # Hello, I'm James!
 
 I'm passionate about technology and problem-solving, with expertise in Cybersecurity, Linux, Python, and SQL. I'm currently advancing my skills to transition into a role in Cybersecurity.
