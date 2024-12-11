@@ -1,123 +1,97 @@
+# Hello, I'm James!
+
+I'm passionate about technology and problem-solving, with expertise in Cybersecurity, Linux, Python, and SQL. I'm currently advancing my skills to transition into a role in Cybersecurity.
+
+
+## 🎯 Objective
+
+My journey in computer science has led to a passion for Cybersecurity. I am eager to transition into the field, specifically aiming for roles such as:  
+
+- SOC Analyst (Tier 1)  
+- IT Security Analyst  
+- Cyber Defence Analyst  
+- Information Security Analyst  
+- GRC Specialist  
+
+
+My focus is on developing expertise in threat detection, incident response, and security policy implementation while working toward certifications like **CompTIA Security+**, **CompTIA Network+**, and **CISSP**.
+
+## 🛠 Skills
+
+
+| **Skill**                                         | Associated Project         |
+|-----------------------------------------------|----------------------------|
+|`INFOSEC`, `NIST Risk Management Framework`, `NIST Cybersecurity Framework`, `Incident Response Playbooks`, `CIA triad`, `Risk Evaluation`, `Compliance Review`           | <a href= https://github.com/JKopal101/Conducting-a-Security-Audit> Conducting a Security Audit </a>|
+|`NIST Risk Management Framework`, `NIST Cybersecurity Framework`, `Incident Response Playbooks`, `Zero-Trust Architectures`, `Vulnerability Management,` `Access Control` | <a href="https://github.com/JKopal101/Retail-Cyber-Defence-Strategy">Retail Cyber Defence Strategy</a>|
+| SIEM Implementation and Log Analysis          | <a href="https://google.com">Detection Lab</a>|
+| Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
+| Security Automation with Shuffle SOAR         | SOC Automation Lab|
+| Incident Response Planning and Execution      | SOC Automation Lab|
+| Case Management with TheHive                  | SOC Automation Lab|
+| Scripting and Automation for Threat Mitigation | SOC Automation Lab|
+
+
+
+
 ---
-layout: default
+
+
+## 🛡 Tools
+
+### **Network:**
+- `tcpdump`, `Wireshark`, `Nmap`
+
+### **Endpoint Protection:**
+- `Microsoft Defender for Endpoint`, `Velociraptor`
+
+### **SIEM:**
+- `Splunk`, `Elastic`
+
+### **Governance, Risk, and Compliance (GRC):**
+- **Tools:** `RiskWatch`, `ISO Compliance Tracker`  
+- **Frameworks:** NIST, ISO 27001, MITRE ATT&CK  
+
 ---
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
+## 🏅 Certifications & Courses
 
-[Link to another page](./another-page.html).
+### **Completed Training**
 
-There should be whitespace between paragraphs.
+- **[TCM Security: Security Operations (SOC) 101](https://tcm-sec.com/)**  
+  
 
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
+- **[Google Cybersecurity Certificate (Coursera)](https://www.coursera.org/)**  
+  - Comprehensive introduction to cybersecurity concepts, tools, and best practices.  
+  - Topics covered: Security architecture, risk management, and cloud security fundamentals.  
 
-# Header 1
+- **[BrainStation Cybersecurity Program - Capstone Project](https://brainstation.io/)**  
+  - Conducted a NIST-based risk assessment, identifying vulnerabilities in data security and access control.
+  - Recommended encryption, MFA, SIEM tools, and Zero Trust Architecture to mitigate risks.
+  - Developed an Incident Response Plan (IRP) and security training to enhance resilience.
 
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
-
-## Header 2
-
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
-
-### Header 3
-
-```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
-```
-
-```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
-```
-
-#### Header 4
-
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-
-##### Header 5
-
-1.  This is an ordered list following a header.
-2.  This is an ordered list following a header.
-3.  This is an ordered list following a header.
-
-###### Header 6
-
-| head1        | head two          | three |
-|:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
-
-### There's a horizontal rule below this.
-
-* * *
-
-### Here is an unordered list:
-
-*   Item foo
-*   Item bar
-*   Item baz
-*   Item zip
-
-### And an ordered list:
-
-1.  Item one
-1.  Item two
-1.  Item three
-1.  Item four
-
-### And a nested list:
-
-- level 1 item
-  - level 2 item
-  - level 2 item
-    - level 3 item
-    - level 3 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-
-### Small image
-
-![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
-
-### Large image
-
-![Branching](https://guides.github.com/activities/hello-world/branching.png)
+  
+### **Planned Certifications**
+- **CompTIA Security+**, **CompTIA Network+**, **CISSP**  
+- **ISO 27001 Lead Implementer**  
 
 
-### Definition lists can be used with HTML syntax.
+## 📂 Projects
 
-<dl>
-<dt>Name</dt>
-<dd>Godzilla</dd>
-<dt>Born</dt>
-<dd>1952</dd>
-<dt>Birthplace</dt>
-<dd>Japan</dd>
-<dt>Color</dt>
-<dd>Green</dd>
-</dl>
+- <a href= https://github.com/JKopal101/Conducting-a-Security-Audit> Conducting a Security Audit </a>
+- Retail Cyber Defence Strategy
+- Detection Lab
+- GRC Framework Lab
+- SOC Automation Project
+- Security Audit
 
-```
-Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
-```
+---
 
-```
-The final element.
-```
+## 🌐 Connect with Me
+
+- **LinkedIn:** [Your LinkedIn Profile URL](https://linkedin.com/in/yourprofile)  
+- **Email:** [Your Email](mailto:your.email@example.com)  
+- **Website:** [Your Portfolio Website URL](https://yourwebsite.com)  
+
+---
+
+Thanks for stopping by! I'm always open to connecting with fellow Cybersecurity professionals and discussing new opportunities.
